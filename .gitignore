@@ -1,0 +1,15 @@
+# Vivado Geçici Klasörleri
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.runs/
+.Xil/
+
+# Vivado Log ve Çöp Dosyaları
+*.jou
+*.log
+*.str
+*.pb
+*.wdb
+pwm_generator_behav.wcfg
